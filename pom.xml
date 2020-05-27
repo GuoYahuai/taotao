@@ -14,5 +14,6 @@
   	<module>taotao-manager-service</module>
   	<module>taotao-manager-dao</module>
   	<module>taotao-manager-pojo</module>
+  	<module>taotao-manager-server</module>
   </modules>
 </project>
